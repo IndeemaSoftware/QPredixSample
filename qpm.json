@@ -1,0 +1,22 @@
+{
+  "name": "com.indeema.QPredixSample",
+  "description": "",
+  "author": {
+    "name": "Indeema Sofftware Inc.",
+    "email": "ask@indeema.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "https://github.com/IndeemaSoftware/QPredixSample.git"
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": ["com.indeema.QPredix"
+  ],
+  "license": "MIT",
+  "pri_filename": "com_indeema_QPredixSample.pri",
+  "webpage": ""
+}

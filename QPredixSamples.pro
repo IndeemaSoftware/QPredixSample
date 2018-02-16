@@ -8,7 +8,7 @@ QT       += core gui network websockets
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-include(../QPredix/QPredix.pri)
+include(vendor/IndeemaSoftware-QPredix-8d13632/QPredix.pri)
 
 TARGET = QPredixSamples
 TEMPLATE =  app
