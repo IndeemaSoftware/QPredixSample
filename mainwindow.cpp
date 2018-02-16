@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
-#include "vendor/com/indeema/QPredix/qpredix.h"
+#include "com/indeema/QPredix/qpredix.h"
 
 #include <QDebug>
 

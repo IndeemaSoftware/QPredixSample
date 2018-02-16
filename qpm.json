@@ -14,7 +14,9 @@
     "revision": "",
     "fingerprint": ""
   },
-  "dependencies": ["com.indeema.QPredix"
+  "dependencies": [
+    "com.indeema.QPredix",
+    "com.indeema.QPredix@0.9.1"
   ],
   "license": "MIT",
   "pri_filename": "com_indeema_QPredixSample.pri",
